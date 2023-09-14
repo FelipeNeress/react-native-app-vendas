@@ -1,6 +1,6 @@
 import { SafeAreaView, Text } from "react-native"
 
-const App = () => {
+const App = ({}) => {
 
     return (
         <SafeAreaView>
