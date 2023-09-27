@@ -1,8 +1,8 @@
 import { grayTheme, neutralTheme } from "./colors";
 
 export const theme = {
-    colors: {
-        grayTheme,
-        neutralTheme,
-    },
+  colors: {
+    grayTheme,
+    neutralTheme,
+  },
 };
